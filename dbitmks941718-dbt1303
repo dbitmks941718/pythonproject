@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+""" security monitoring system, by DOYO BASHORA(DBITMKS(941718)
+this program enables user to monitor the security within a neighbourhood following a spate of mugggings and house break-ins.
+"""
+
+def main():
+print " null if there is no signal detected from the motion detector glass detector and switch detector."
+
+if  there signal from the switch sensor, motion detector and glass detector then 
+return Yes
+else;
+ print "room number and house number"
+ 
+if_name_=="_main_ ":
+main ():
